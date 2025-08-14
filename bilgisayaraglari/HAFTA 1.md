@@ -1,3 +1,5 @@
+title: "Bilgisayar Ağları Hafta 1"
+date: 2023-03-01
 
 **1.1. AĞ (NETWORK) NEDİR?**
 Birden fazla cihazın mevcut kaynakları ortak kullanımına imkan sağlayan yapılar ağ (network) olarak adlandırılır. Ağ denilince ilk akla gelen cihazlar;
